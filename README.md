@@ -1,6 +1,6 @@
 # Hi ![My name is Silvaire](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Hey there! 👋 I'm Silvaire, a second-year web development student exploring the web development universe. Currently, I work with HTML, CSS, and JavaScript, with some styling flair from Bootstrap and Tailwind CSS. I'm eager to dive into PHP, MySQL, and Python in the near future.
+Hey there! 👋 I'm Silvaire, a second-year web development student exploring the web development universe. Currently, I work with HTML, CSS, and JavaScript, with some styling flair from Bootstrap and Tailwind CSS. I'm interested to dive into PHP, MySQL, and Python in the near future.
 
 ## Skills
 
