@@ -30,9 +30,3 @@ Hey there! 👋 I'm Silvaire, a second-year web development student exploring th
         </picture>
     </a>
 </p>
-
-## Badges
-
-<a href="https://github.com/Silvaternia" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvaternia&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
