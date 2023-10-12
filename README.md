@@ -7,7 +7,7 @@ I'm Silvaire, a second-year web development student exploring the web developmen
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,vscode)](https://skillicons.dev)
 
 ## Currently learning
-[![Currently learning:](https://skillicons.dev/icons?i=react,next,vite,figma)](https://skillicons.dev)
+[![Currently learning:](https://skillicons.dev/icons?i=react,next,figma)](https://skillicons.dev)
 
 ## Interested in learning
 [![Interested in learning:](https://skillicons.dev/icons?i=php,mysql,ts,sass)](https://skillicons.dev)
