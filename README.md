@@ -1,10 +1,10 @@
 # Hey there! 👋
 
-I'm Silvaire, a second-year web development student exploring the web development universe. Currently, I work with HTML, CSS, and JavaScript, with some styling flair from Bootstrap and Tailwind CSS. I'm interested to dive into PHP, MySQL, and Python in the near future.
+I'm Silvaire, a second-year web development student exploring the web development universe. Currently, I work with HTML, CSS, and JavaScript, with some styling flair from Bootstrap and Tailwind CSS. I'm interested in diving into PHP, MySQL, and Python in the near future.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,vscode)](https://skillicons.dev)
 
 ## Currently learning
 [![Currently learning:](https://skillicons.dev/icons?i=react,next,vite,figma)](https://skillicons.dev)
