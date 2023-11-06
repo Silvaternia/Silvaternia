@@ -1,16 +1,25 @@
-# Hey there! 👋
+# Hello there! 👋
 
-I'm Silvaire, a second-year web development student exploring the web development universe. Currently, I work with HTML, CSS, and JavaScript, with some styling flair from Bootstrap and Tailwind CSS. I'm interested in diving into PHP, MySQL, and Python in the near future.
+I'm Silvaire, a second-year web development student exploring the web development
+universe. Currently, I work with HTML, CSS, and JavaScript, with some styling flair
+from Bootstrap and Tailwind CSS.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap)](https://skillicons.dev)
 
-## Currently learning
-[![Currently learning:](https://skillicons.dev/icons?i=react,next,figma,ts)](https://skillicons.dev)
+## Software
 
-## Interested in learning
-[![Interested in learning:](https://skillicons.dev/icons?i=php,mysql,sass)](https://skillicons.dev)
+[![Software:](https://skillicons.dev/icons?i=vscode,figma,git,github,gitlab,ps)](https://skillicons.dev)
+
+## Learning
+
+[![learning:](https://skillicons.dev/icons?i=next,react,ts)](https://skillicons.dev)
+
+## Interests
+
+[![Interested in learning:](https://skillicons.dev/icons?i=php,mysql,sass,py)](https://skillicons.dev)
+
 ## Socials
 
 <p align="left">
@@ -22,5 +31,3 @@ I'm Silvaire, a second-year web development student exploring the web developmen
         </picture>
     </a>
 </p>
-
-
