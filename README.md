@@ -1,9 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
-name: Silvaternia
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
+### This is work in Progress
+( I have to figure out what I want to show here )
